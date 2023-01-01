@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kevin Ko</h1>
 <h3 align="center">2nd-year Computer Science student @ University of Waterloo</h3>
 
-- 📫 How to reach me **kevin.yb.ko@gmail.com**
+- 📫 Reach me at **kevin.yb.ko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
