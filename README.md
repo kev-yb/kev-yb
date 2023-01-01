@@ -3,7 +3,6 @@
 
 - 📫 Reach me at **kevin.yb.ko@gmail.com** or **www.linkedin.com/in/kevin-yb-ko**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
