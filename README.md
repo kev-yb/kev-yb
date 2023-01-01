@@ -2,7 +2,7 @@
 <h3 align="center">2nd-year Computer Science student @ University of Waterloo</h3>
 
 - 📫 Reach me at **kevin.yb.ko@gmail.com** or **www.linkedin.com/in/kevin-yb-ko**
-- 🌱 I’m currently learning **Object-Oriented Software Development C++ (CS 246), Logic and Computation (CS 245), Introduction to Combinatorics (Math 239)**
+- 🌱 I’m currently learning **Object-Oriented Software Development C++** (CS 246), **Logic and Computation** (CS 245), **Introduction to Combinatorics**(Math 239)
 
 <p align="left">
 </p>
