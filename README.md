@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Kevin Ko</h1>
-<h3 align="center">2nd-year Computer Science student @ University of Waterloo</h3>
+<h3 align="center">Computer Science student @ University of Waterloo</h3>
 
 - 📫 Reach me at **kevin.yb.ko@gmail.com** or **www.linkedin.com/in/kevin-yb-ko**
 - 🌱 I’m currently studying **Object-Oriented Software Development C++** (CS 246), **Logic and Computation** (CS 245), **Introduction to Combinatorics** (Math 239)
