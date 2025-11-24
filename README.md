@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kevin Ko</h1>
 <h3 align="center">Computer Science Student @ University of Waterloo</h3>
 
-- 📫 Reach me at **kevin.yb.ko@gmail.com** or **www.linkedin.com/in/kevin-yb-ko**
-
+- 📫 Reach me at **kevin.yb.ko@gmail.com**
 <p align="left">
 </p>
 
